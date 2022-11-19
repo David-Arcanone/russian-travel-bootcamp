@@ -17,7 +17,7 @@
 Выложены красивые фото природы, доступны полезные ссылки.
 
 **Картинки**
-[Ссылка на выложенную работу](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+[Ссылка на выложенную работу](https://david-arcanone.github.io/russian-travel-bootcamp/index.html)
 
 
 ###Григорьев Давид, 2022г.
