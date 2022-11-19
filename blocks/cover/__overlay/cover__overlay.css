@@ -1,7 +1,6 @@
 .cover__overlay{
     color: white;
     text-decoration: none;
-    display: block;
     contain: "";
     position:absolute;
     display: flex;
