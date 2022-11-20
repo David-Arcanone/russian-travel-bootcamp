@@ -11,10 +11,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-box/header__lang-box.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_type/header__lang-link_type_active-ru.css);
-/*@import url(../blocks/header/__lang-link/_type/header__lang-link_type_unactive-ru.css);
-@import url(../blocks/header/__lang-link/_type/header__lang-link_type_active-en.css);
-@import url(../blocks/header/__lang-link/_type/header__lang-link_type_unactive-en.css);*/
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 /*main*/
 /**1 секция lead*/
 @import url(../blocks/lead/lead.css);
