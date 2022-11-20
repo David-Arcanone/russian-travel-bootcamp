@@ -1,0 +1,17 @@
+.footer__menu-list{
+    padding: 0;
+    margin: 0;
+    line-height: 0;
+    display: grid;
+    grid-template-columns: repeat(5,minmax(min-content, max-content));
+    gap: 18px;
+    justify-items: left;
+    list-style: none;
+}
+@media screen and (max-width: 767px) {
+    .footer__menu-list{        
+        gap:32px;
+        grid-template-columns: minmax(min-content, max-content);
+        grid-template-rows: repeat(5,minmax(min-content, max-content));
+    }
+}
