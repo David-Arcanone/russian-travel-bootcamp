@@ -1,5 +1,8 @@
 # Проект: Путешествие по России
 
+<div align="center"><img src="./images/readme.jpg" alt="profile" width="40%">
+</div>
+
 ### Обзор
 * Технологии
 * Обзор проекта

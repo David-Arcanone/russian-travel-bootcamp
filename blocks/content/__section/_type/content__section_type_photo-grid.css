@@ -1,0 +1,15 @@
+
+.content__section_type_photo-grid{
+    margin: 0;
+    padding:92px 48px 0;
+}
+@media screen and (max-width: 1023px) {
+    .content__section_type_photo-grid{
+        padding: 88px 24px 0;
+    }
+}
+@media screen and (max-width: 767px) {
+    .content__section_type_photo-grid{
+        padding: 64px 16px 0;
+    }
+}

@@ -1,0 +1,22 @@
+.content__section_type_intro{
+    padding-top: 92px;
+    padding-left: 148px;
+    margin: 0;
+    max-width: 690px;
+}
+@media screen and (max-width: 1279px) {
+    .content__section_type_intro{
+        padding-left: 4.68%;/*calc((1024px-928px)/20.48);*/
+    }
+}
+@media screen and (max-width: 1023px) {
+    .content__section_type_intro{
+        max-width:100%;
+        padding: 88px 24px 0 24px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .content__section_type_intro{
+        padding: 64px 16px 0 16px;
+    }
+}

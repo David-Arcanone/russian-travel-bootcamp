@@ -1,0 +1,13 @@
+.page__page-child{
+    min-width: 320px;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 1280px) {
+    .page__page-child{
+        margin: 0 auto;
+        max-width: 1280px;
+    }
+}
